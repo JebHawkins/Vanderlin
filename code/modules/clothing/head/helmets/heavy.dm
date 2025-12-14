@@ -175,7 +175,6 @@
 	armor = ARMOR_PLATE
 	body_parts_covered = HEAD|EARS|HAIR|NOSE|EYES|
 	max_integrity = INTEGRITY_STRONGEST
-
 	prevent_crits = ALL_CRITICAL_HITS
 	item_weight = 5 * STEEL_MULTIPLIER
 	block2add = FOV_BEHIND
